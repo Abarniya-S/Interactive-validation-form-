@@ -1,2 +1,2 @@
-# Interactive-validation-form-
-The Interactive Validation Form is a web-based project using HTML, CSS, and JavaScript that validates user input in real time. It provides instant feedback for fields like email and password, ensuring accuracy and improving user experience with dynamic error messages and visual indicators.
+# interactive_validation_form
+A modern, responsive, and interactive form validation project built using HTML, CSS, JavaScript, and Tailwind CSS. This project ensures a centralized validation system for input fields, providing real-time feedback to users with smooth UI transitions and clean error handling.
